@@ -1,0 +1,337 @@
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.SqlServer.Types.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.servises.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.servises.pdb
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luis tapia\source\repos\Necli\ProyectoFinal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.SqlServer.Types.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.servises.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.servises.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.SqlServer.Types.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.servises.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Necli.servises.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\itextsharp.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll

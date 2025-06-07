@@ -1,0 +1,94 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Necli.servises.Dtos;
+using Necli.servises.Interfaces;
+
+namespace ProyectoFinal.Controllers;
+
+[Route("api/[controller]")]
+[ApiController]
+public class UsuarioController : ControllerBase
+{
+    private readonly IUsuarioService _usuarioService;
+    
+
+    public UsuarioController(IUsuarioService usuarioCuentaService, ILogger<UsuarioController> logger)
+    {
+        _usuarioService = usuarioCuentaService;
+        
+    }
+
+
+    [HttpPost("crear")]
+    public ActionResult CrearCuentaYUsuario([FromBody] CuentaYUsuarioDto dto)
+    {
+        try
+        {
+            var resultado = _usuarioService.CrearCuentaYUsuario(dto);
+            
+            return Ok("Usuario y cuenta creados correctamente");
+        }
+        catch (Exception)
+        {
+            return BadRequest();
+        }
+    }
+       
+    [HttpGet("consultar")]
+    public ActionResult<UsuarioConsultaDto> ConsultarUsuario(string id)
+    {
+        
+            var usuario = _usuarioService.ConsultarUsuario(id);
+            return Ok(usuario);
+        
+        
+    }
+
+ 
+    [HttpPut("Actualizar Usuario")]
+    public ActionResult<bool> ActualizarUsuario([FromBody] ActulizarUsuarioDto usuario)
+    {
+        if (usuario == null)
+            return BadRequest("El objeto usuario está vacío.");
+
+        if (string.IsNullOrWhiteSpace(usuario.Id))
+            return BadRequest("El Id del usuario es obligatorio.");
+
+        if (string.IsNullOrWhiteSpace(usuario.NombreUsuario) || string.IsNullOrWhiteSpace(usuario.ApellidoUsuario))
+            return BadRequest("El nombre y apellido del usuario son obligatorios.");
+
+        if (string.IsNullOrWhiteSpace(usuario.Correo) || !usuario.Correo.Contains("@"))
+            return BadRequest("El correo es inválido.");
+
+        try
+        {
+            var resultado = _usuarioService.ActualizarUsuario(usuario);
+
+            if (!resultado)
+                return StatusCode(500, "Error al actualizar el usuario.");
+
+            return Ok(true);
+        }
+        catch (Exception)
+        {
+            return NotFound();
+        }
+    }
+
+    [HttpGet("confirmar")]
+    public IActionResult ConfirmarCorreo([FromQuery] string token)
+    {
+        var resultado = _usuarioService.VerificarCorreo(token);
+
+        if (!resultado)
+            return BadRequest("Verificación fallida. Token inválido o usuario ya verificado.");
+
+        return Ok("Correo verificado correctamente.");
+    }
+
+    private string ObtenerMensajeCompleto(Exception ex)
+    {
+        if (ex == null) return string.Empty;
+        return ex.InnerException == null ? ex.Message : $"{ex.Message} -> {ObtenerMensajeCompleto(ex.InnerException)}";
+    }
+
+}
