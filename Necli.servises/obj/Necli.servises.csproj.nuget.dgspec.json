@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.servises\\Necli.servises.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj",
+        "projectName": "Necli.entities",
+        "projectPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj",
+        "packagesPath": "C:\\Users\\luis tapia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luis tapia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.persistencia\\Necli.persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.persistencia\\Necli.persistencia.csproj",
+        "projectName": "Necli.persistencia",
+        "projectPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.persistencia\\Necli.persistencia.csproj",
+        "packagesPath": "C:\\Users\\luis tapia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luis tapia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj": {
+                "projectPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.servises\\Necli.servises.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.servises\\Necli.servises.csproj",
+        "projectName": "Necli.servises",
+        "projectPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.servises\\Necli.servises.csproj",
+        "packagesPath": "C:\\Users\\luis tapia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.servises\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luis tapia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj": {
+                "projectPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.entities\\Necli.entities.csproj"
+              },
+              "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.persistencia\\Necli.persistencia.csproj": {
+                "projectPath": "C:\\Users\\luis tapia\\OneDrive\\Documents\\Visual Studio 2022\\ProyectoFinalWeb2 (2)\\ProyectoFinalWeb2\\ProyectoFinalWeb2\\Necli\\Necli.persistencia\\Necli.persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

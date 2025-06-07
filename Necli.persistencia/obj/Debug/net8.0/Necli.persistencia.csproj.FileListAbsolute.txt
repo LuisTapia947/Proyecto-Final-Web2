@@ -1,0 +1,45 @@
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.deps.json
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.csproj.AssemblyReference.cache
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.AssemblyInfoInputs.cache
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.AssemblyInfo.cs
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.pe.5D7C900A.Up2Date
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\refint\Necli.persistencia.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\source\repos\Necli\Necli.persistencia\obj\Debug\net8.0\ref\Necli.persistencia.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.deps.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.csproj.AssemblyReference.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.AssemblyInfo.cs
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.pe.5D7C900A.Up2Date
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\refint\Necli.persistencia.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\ref\Necli.persistencia.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.deps.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.csproj.AssemblyReference.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.AssemblyInfoInputs.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.AssemblyInfo.cs
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.pe.5D7C900A.Up2Date
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\refint\Necli.persistencia.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.persistencia\obj\Debug\net8.0\ref\Necli.persistencia.dll

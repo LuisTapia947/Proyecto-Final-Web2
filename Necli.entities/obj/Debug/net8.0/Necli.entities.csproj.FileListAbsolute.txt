@@ -1,0 +1,33 @@
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.deps.json
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.AssemblyInfoInputs.cache
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.AssemblyInfo.cs
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\refint\Necli.entities.dll
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\source\repos\Necli\Necli.entities\obj\Debug\net8.0\ref\Necli.entities.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.deps.json
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.AssemblyInfo.cs
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\refint\Necli.entities.dll
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.pdb
+C:\Users\juanp\Downloads\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\ref\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.deps.json
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.AssemblyInfoInputs.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.AssemblyInfo.cs
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\refint\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.entities\obj\Debug\net8.0\ref\Necli.entities.dll
