@@ -172,6 +172,46 @@ public class UsuarioService : IUsuarioService
             return false;
         }
     }
+
+    public async Task SolicitarRestablecimientoContraseña(string correo)
+    {
+        var usuario = _context.Usuarios.FirstOrDefault(u => u.Correo == correo);
+
+        if (usuario == null)
+            throw new NegocioException("El correo no está registrado.");
+
+        // Generar token único
+        usuario.TokenVerificacion = Guid.NewGuid().ToString("N");
+        _context.SaveChanges();
+
+        var link = $"https://localhost:7297/api/Usuario/restablecer?token={usuario.TokenVerificacion}";
+        string asunto = "Restablecimiento de contraseña";
+        string cuerpo = $@"
+        <h3>Solicitud de restablecimiento de contraseña</h3>
+        <p>Haz clic en el siguiente enlace para restablecer tu contraseña:</p>
+        <a href='{link}' style='color: #007bff;'>Restablecer contraseña</a>";
+
+        await _correoService.EnviarCorreoAsync(correo, asunto, cuerpo);
+    }
+    public bool RestablecerContraseña(string token, string nuevaContraseña)
+    {
+        var usuario = _context.Usuarios.FirstOrDefault(u => u.TokenVerificacion == token);
+
+        if (usuario == null)
+            throw new NegocioException("Token inválido o expirado.");
+
+        usuario.Contraseña = EncriptarContraseña(nuevaContraseña);
+        usuario.TokenVerificacion = null;
+
+        _context.SaveChanges();
+
+        _correoService.EnviarCorreoAsync(usuario.Correo, "Contraseña restablecida",
+            "<p>Tu contraseña se ha restablecido exitosamente.</p>");
+
+        return true;
+    }
+
+
     public string EncriptarContraseña(string contraseña)
     {
 

@@ -85,6 +85,48 @@ public class UsuarioController : ControllerBase
         return Ok("Correo verificado correctamente.");
     }
 
+    [HttpPost("solicitar-restablecimiento")]
+    public async Task<IActionResult> SolicitarRestablecimiento([FromBody] SolicitudRestablecimientoDto solicitud)
+    {
+        await _usuarioService.SolicitarRestablecimientoContraseña(solicitud.Correo);
+        return Ok("Correo de restablecimiento enviado.");
+    }
+
+    [HttpGet("restablecer")]
+    public IActionResult MostrarFormulario([FromQuery] string token)
+    {
+        if (string.IsNullOrEmpty(token))
+            return BadRequest("Token no válido.");
+
+        var html = $@"
+    <html>
+    <head>
+        <title>Restablecer Contraseña</title>
+    </head>
+    <body style='font-family: sans-serif;'>
+        <h2>Restablecer tu contraseña</h2>
+        <form method='post' action='/api/Usuario/restablecer?token={token}'>
+            <label>Nueva contraseña:</label><br/>
+            <input type='password' name='nuevaContraseña' required /><br/><br/>
+            <button type='submit'>Cambiar contraseña</button>
+        </form>
+    </body>
+    </html>";
+
+        return Content(html, "text/html");
+    }
+
+
+    [HttpPost("restablecer")]
+    public IActionResult RestablecerContraseña([FromQuery] string token, [FromForm] string nuevaContraseña)
+    {
+        var result = _usuarioService.RestablecerContraseña(token, nuevaContraseña);
+        return result ? Ok("Contraseña actualizada.") : BadRequest("Token inválido.");
+    }
+
+
+
+
     private string ObtenerMensajeCompleto(Exception ex)
     {
         if (ex == null) return string.Empty;

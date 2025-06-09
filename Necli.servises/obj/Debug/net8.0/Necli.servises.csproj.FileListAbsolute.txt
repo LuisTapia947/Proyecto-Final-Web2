@@ -49,3 +49,20 @@ C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\
 C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\refint\Necli.servises.dll
 C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.pdb
 C:\Users\luis tapia\OneDrive\Documents\Visual Studio 2022\ProyectoFinalWeb2 (2)\ProyectoFinalWeb2\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\ref\Necli.servises.dll
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.servises.deps.json
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.servises.dll
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.servises.pdb
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.entities.dll
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.persistencia.dll
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.entities.pdb
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\bin\Debug\net8.0\Necli.persistencia.pdb
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.csproj.AssemblyReference.cache
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.AssemblyInfoInputs.cache
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.AssemblyInfo.cs
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.csproj.CoreCompileInputs.cache
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.se.3FE49967.Up2Date
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.dll
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\refint\Necli.servises.dll
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\Necli.servises.pdb
+C:\Users\luis tapia\OneDrive\Desktop\ProyectoFinalWeb2\Necli\Necli.servises\obj\Debug\net8.0\ref\Necli.servises.dll

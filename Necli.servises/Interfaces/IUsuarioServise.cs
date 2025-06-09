@@ -13,6 +13,8 @@ namespace Necli.servises.Interfaces;
     bool VerificarCorreo(string token);
     string EncriptarContraseña(string contraseña);
     bool VerificarContraseña(string contraseña, string hashAlmacenado);
+    bool RestablecerContraseña(string token, string nuevaContraseña);
+    Task SolicitarRestablecimientoContraseña(string correo);
 
 
   }
