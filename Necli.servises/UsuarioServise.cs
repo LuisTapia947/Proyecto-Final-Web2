@@ -12,12 +12,14 @@ public class UsuarioService : IUsuarioService
     private readonly NecliDbContext _context;
     private readonly ICorreoServise _correoService;
     private readonly IUsuarioRepository _usuarioRepository;
+    private readonly ITransaccionService _transaccionService;
 
-    public UsuarioService(NecliDbContext context, ICorreoServise correoService, IUsuarioRepository usuarioRepository)
+    public UsuarioService(NecliDbContext context, ICorreoServise correoService, IUsuarioRepository usuarioRepository, ITransaccionService transaccionService)
     {
         _context = context;
         _correoService = correoService;
         _usuarioRepository = usuarioRepository;
+        _transaccionService = transaccionService;
     }
     public bool CrearCuentaYUsuario(CuentaYUsuarioDto dto)
     {
@@ -254,6 +256,36 @@ public class UsuarioService : IUsuarioService
 
             return true;
         }
+    }
+
+    public async Task<byte[]> GenerarReportePruebaAsync(string usuarioId)
+    {
+        var usuario = _context.Usuarios.FirstOrDefault(u => u.Id == usuarioId);
+        if (usuario == null)
+            throw new NegocioException("Usuario no encontrado.");
+
+        var transacciones = await _transaccionService.ObtenerTransaccionesDelMesAnterior(usuarioId);
+        if (transacciones == null || !transacciones.Any())
+            throw new NegocioException("No hay transacciones para generar el reporte.");
+
+        var pdf = _transaccionService.GenerarPdfProtegido(transacciones, usuario.Id);
+
+        var ruta = Path.Combine("reportes", DateTime.Now.ToString("yyyyMMdd"));
+        Directory.CreateDirectory(ruta);
+
+        var nombreArchivo = $"{usuario.Id}_prueba.pdf";
+        var rutaArchivo = Path.Combine(ruta, nombreArchivo);
+        await File.WriteAllBytesAsync(rutaArchivo, pdf);
+
+        await _correoService.EnviarCorreoConAdjuntoAsync(
+            usuario.Correo,
+            "Reporte de prueba",
+            "<p>Este es un reporte de prueba con tus transacciones del último mes.</p>",
+            pdf,
+            nombreArchivo
+        );
+
+        return pdf;
     }
 
 

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Necli.servises.Dtos;
+using Necli.servises.Exceptions;
 using Necli.servises.Interfaces;
 
 namespace ProyectoFinal.Controllers;
@@ -124,6 +125,23 @@ public class UsuarioController : ControllerBase
         return result ? Ok("Contraseña actualizada.") : BadRequest("Token inválido.");
     }
 
+    [HttpPost("generar-reporte-prueba/{usuarioId}")]
+    public async Task<IActionResult> GenerarReportePrueba(string usuarioId)
+    {
+        try
+        {
+            var pdf = await _usuarioService.GenerarReportePruebaAsync(usuarioId);
+            return File(pdf, "application/pdf", $"{usuarioId}_prueba.pdf");
+        }
+        catch (NegocioException ex)
+        {
+            return BadRequest(new { mensaje = ex.Message });
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { mensaje = "Error interno al generar el reporte." });
+        }
+    }
 
 
 

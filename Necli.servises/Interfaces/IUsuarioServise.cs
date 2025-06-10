@@ -15,8 +15,7 @@ namespace Necli.servises.Interfaces;
     bool VerificarContraseña(string contraseña, string hashAlmacenado);
     bool RestablecerContraseña(string token, string nuevaContraseña);
     Task SolicitarRestablecimientoContraseña(string correo);
-
-
+    Task<byte[]> GenerarReportePruebaAsync(string usuarioId);
   }
 
 
